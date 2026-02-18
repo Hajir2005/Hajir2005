@@ -6,7 +6,6 @@
 - 🌅 Check out my [personal website](https://hajir.pro)
 - ⚡ Fun fact: Fish can't shake hands because their hands are wet!
 
-[![Hajir's github stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=hajir2005&repo=github-readme-stats&amp;theme=outrun)](https://github.com/hajir2005/github-readme-stats)
 
 Cheers  
 Hajir Lesani  
